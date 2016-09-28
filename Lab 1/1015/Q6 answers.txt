@@ -1,0 +1,3 @@
+var x;
+x = prompt();
+alert(+x+ + (1));

@@ -1,0 +1,25 @@
+alert("The answer is 2");
+The output is "The answer is 2"
+The code has been written so that the number 2 is part of the string inside the quotation marks, so the code is displaying the value of the string.
+
+alert("The answer is" + 2);
+The output is "The answer is2"
+The string in the quotation marks does not include the number 2, and since a space has not been left beofre the 2 or after "is" the 2 has been joined straight to the end of the string.
+
+alert("The answer is" + "2");
+The output is "The answer is2"
+The output here is the same as the previous output, the only difference being that the number 2 is being declared as a string this time, rather than a single character.
+
+alert("The answer is 2 " + 5);
+The output is "The answer is 2 5"
+In the quotation marks, the number 2 has been added to the string, but the number 5 is a separate character, which is being added on to the end o the string using concatenation.
+
+alert("The answer is " + 2 + 5);
+The output is "The answer is 25"
+The string in the quotation marks is once again "The answer is ". When the numbers 2 and 5 are added together using concatenation, they are displayed next to each other.
+
+alert("The answer is " + (2+5));
+The output is "The answer is 7"
+When the numbers are added together, this time they are being added as a calculation rather than simply being placed next to one another.
+
+https://drive.google.com/file/d/0B6ZJ33KlacBgSm55V3BHUW1vNkU/view

@@ -1,0 +1,12 @@
+<DOCTYPE html>
+<html>
+<head>
+	<script language = "javascript">
+		var x;
+		var y;
+		x = prompt("Please enter x forename");
+		y = prompt("Please enter y forename");
+		alert(x + " and " + y + " sitting in a tree, K.I.S.S.I.N.G");
+	</script>
+</head>
+</html>

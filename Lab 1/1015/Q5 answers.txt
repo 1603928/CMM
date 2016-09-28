@@ -1,0 +1,1 @@
+alert("Hello " + prompt("Please enter your forename") + "\nWelcome to CM1015" + "\nWe hope you enjoy your course");

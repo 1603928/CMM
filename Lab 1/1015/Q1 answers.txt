@@ -1,0 +1,4 @@
+prompt("Computing is great?");
+alert("Alice says \"Bob is here\"");
+alert("The folder to use is c:\\home\\files");
+alert("RGU's new campus");

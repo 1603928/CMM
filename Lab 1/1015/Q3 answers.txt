@@ -1,0 +1,1 @@
+alert("XXXXX\nX      X\nX      X\nX      x\nX      X\nXXXXX");
